@@ -7,8 +7,6 @@
 
 # Usage Instructions
 
-Video Walkthrough: https://youtu.be/eHaXw8Bd_ms
-
 1.  Fork this repo and name it `<your-username>`
 2.  In your forked repo, go to the `Settings tab > actions > general`. In the `Workflow permissions` section, toggle `Read and Write permissions` and press `save`. This will allow for the snake contributions svg to be generated based on your own contributions via Github Actions.
 3.  Go to the `Actions` tab, select `Generate Snake` and click `run workflow`. That way, you will manually generate your first snake svg; after that, a new one will be generated every 12 hours.
