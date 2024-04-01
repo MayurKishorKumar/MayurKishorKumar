@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,php,python,javascript,c,java,cpp,dart" />
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,pytorch,nodejs,firebase,flask,tensorflow,opencv" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,pytorch,nodejs,firebase,tensorflow,opencv" />
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,unreal,arduino,androidstudio,eclipse,anaconda,pycharm,idea,mongodb,mysql" />
 
 </div>
