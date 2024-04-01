@@ -20,8 +20,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,c,java,mysql,flask,java,c,cpp,python,php" /><br>
-    <img src="https://skillicons.dev/icons?i=react,androidstudio,eclipse,flutter" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,c,java,mysql,flask,java,c,cpp,python,php" /><br>
+    <img src="https://skillicons.dev/icons?i=react,androidstudio,eclipse,flutter,tensorflow,keras,pytorch,opencv,scikit" />
 </div>
 
 <br/>
