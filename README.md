@@ -19,7 +19,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,scikit,pytorch,php" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,pytorch,php" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,c,java,mysql,flask,java,c,cpp,python" /><br>
     <img src="https://skillicons.dev/icons?i=react,androidstudio,eclipse,flutter,tensorflow,keras,anaconda,opencv" />
 </div>
