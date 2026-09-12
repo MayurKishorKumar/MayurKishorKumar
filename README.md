@@ -74,9 +74,3 @@ Deep learning image classification using CNNs and the LC25000 dataset.
 💡 Building AI systems, one problem at a time.
 
 </div>
-
-### 🔗 Connect
-
-- LinkedIn: https://www.linkedin.com/in/mayurkishorekumar
-- Portfolio: https://mayurkishorkumar.github.io/
-- Email: mayurakash1999@gmail.com
