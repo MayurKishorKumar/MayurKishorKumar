@@ -7,7 +7,7 @@
 <a href="mailto:mayurakash1999@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
-<a href="https://www.linkedin.com/in/mayurk1999" target="_blank">
+<a href="https://www.linkedin.com/in/mayurkishorekumar" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://mayurkishorkumar.github.io/" target="_blank">
@@ -77,6 +77,6 @@ Deep learning image classification using CNNs and the LC25000 dataset.
 
 ### 🔗 Connect
 
-- LinkedIn: https://www.linkedin.com/in/mayurk1999
+- LinkedIn: https://www.linkedin.com/in/mayurkishorekumar
 - Portfolio: https://mayurkishorkumar.github.io/
 - Email: mayurakash1999@gmail.com
