@@ -1,37 +1,64 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mayur+Kishor+Kumar!;" />
-</h1>
- 
-<div align="center"> 
-  <a href="mailto:mayur18699@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/mayurk1999" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://kishorkumarm.sites.northeastern.edu/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+# Mayur Kishore Kumar
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+Machine Learning Engineer building production AI/ML systems.
+
+I work across:
+- Machine Learning
+- Generative AI & LLMs
+- RAG & AI Agents
+- MCP & AI Developer Tooling
+- ML Infrastructure
+
+Currently @ Rambus, where I build AI/ML systems and developer tooling for enterprise engineering workflows.
+
+## What I Build
+
+- Predictive ML systems for large-scale engineering workloads
+- RAG systems with hybrid retrieval, embeddings, reranking, and knowledge graphs
+- Agentic AI systems for reasoning, planning, routing, and tool orchestration
+- AI developer tooling using MCP, GitHub Copilot, and local/enterprise LLM infrastructure
+- Production data and ML pipelines with Python, SQL, Docker, Linux, and FastAPI
+
+## Featured Projects
+
+### Multi-Agent AI Reasoning Platform
+Custom multi-agent workflows for planning, reasoning, routing, debate, and tool orchestration.
+
+→ https://github.com/MayurKishorKumar/Agents
+
+### AI Portfolio
+My personal portfolio and selected work.
+
+→ https://mayurkishorkumar.github.io/
+
+### Humanitarians AI
+AI applications focused on RAG, multi-agent systems, and healthcare use cases.
+
+→ https://github.com/MayurKishorKumar/Humanitarians_AI
+
+### Lung Cancer Image Classification
+Deep learning image classification using CNNs and the LC25000 dataset.
+
+→ https://github.com/MayurKishorKumar/Lung-Cancer-Image-Classification
+
+## Tech
+
+**Core:** Python · Machine Learning · Generative AI · LLMs · RAG · AI Agents · MCP
+
+**ML/Data:** PyTorch · Scikit-Learn · XGBoost · Pandas · NumPy · SQL
+
+**AI Infrastructure:** FastAPI · Docker · Linux · MLflow · FAISS · ChromaDB · Ollama
+
+**Developer Tooling:** GitHub Copilot · Continue.dev · n8n · LangGraph
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/mayurk1999
+- Portfolio: https://mayurkishorkumar.github.io/
+- Email: mayurakash1999@gmail.com
+
+---
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,php,python,javascript,c,java,cpp,dart" />
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,pytorch,nodejs,firebase,tensorflow,opencv" />
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,unreal,arduino,androidstudio,eclipse,anaconda,pycharm,idea,mongodb,mysql" />
-
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MayurKishorKumar/MayurKishorKumar/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
