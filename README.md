@@ -48,12 +48,12 @@ My personal portfolio and selected work.
 ### 🏥 Humanitarians AI
 AI applications focused on RAG, multi-agent systems, and healthcare use cases.
 
-→ https://github.com/MayurKishorKumar/Humanitarians_AI
+→ https://github.com/MayurKishoreKumar/Humanitarians_AI
 
 ### 🫁 Lung Cancer Image Classification
 Deep learning image classification using CNNs and the LC25000 dataset.
 
-→ https://github.com/MayurKishorKumar/Lung-Cancer-Image-Classification
+→ https://github.com/MayurKishoreKumar/Lung-Cancer-Image-Classification
 
 ## ⚙️ Tech Stack
 
