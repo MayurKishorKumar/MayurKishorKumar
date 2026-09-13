@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/mayurkishorekumar" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://mayurkishorkumar.github.io/" target="_blank">
+<a href="https://mayurkishorekumar.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -61,7 +61,7 @@ Deep learning image classification using CNNs and the LC25000 dataset.
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,docker,linux,fastapi,git,github" />
 
-<br/><br/>
+<br/>
 
 `Machine Learning` · `Generative AI` · `LLMs` · `RAG` · `AI Agents` · `MCP` · `XGBoost` · `FAISS` · `ChromaDB` · `Ollama` · `MLflow` · `SQL`
 
