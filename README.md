@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="mailto:mayurakash1999@gmail.com">
+<a href="mailto:mayur.kishore7@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 <a href="https://www.linkedin.com/in/mayurkishorekumar" target="_blank">
