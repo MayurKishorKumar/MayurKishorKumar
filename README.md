@@ -38,12 +38,12 @@ I like taking messy, ambiguous engineering problems and turning them into system
 ### 🤖 Multi-Agent AI Reasoning Platform
 Custom multi-agent workflows for planning, reasoning, routing, debate, and tool orchestration.
 
-→ https://github.com/MayurKishorKumar/Agents
+→ https://github.com/MayurKishoreKumar/Agents
 
 ### 🌐 AI Portfolio
 My personal portfolio and selected work.
 
-→ https://mayurkishorkumar.github.io/
+→ https://mayurkishorekumar.github.io/
 
 ### 🏥 Humanitarians AI
 AI applications focused on RAG, multi-agent systems, and healthcare use cases.
